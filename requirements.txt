@@ -1,0 +1,6 @@
+pyrogram
+pyromod
+TgCrypto
+SQLAlchemy
+psycopg2
+instaloader
